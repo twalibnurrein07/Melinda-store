@@ -41,7 +41,7 @@ const data={
 // changing the object to json string format
 const jsonData=JSON.stringify(data);
 
-const url=  'https://us6.api.mailchimp.com/3.0/lists/c7a1fc43bd';
+const url=  'https://us5.api.mailchimp.com/3.0/lists/c7a1fc43bd';
 const options={
   method:"POST",
   auth:"Twalib:bea29e8842f953bff6de078502c378ec-us5"
